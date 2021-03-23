@@ -1,9 +1,9 @@
-package com.codinginflow.mvvmtodo.ui.deleteAllCompleted
+package com.sample.mvvmtodo.ui.deleteAllCompleted
 
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.ViewModel
-import com.codinginflow.mvvmtodo.data.TaskDao
-import com.codinginflow.mvvmtodo.di.ApplicationScope
+import com.sample.mvvmtodo.data.TaskDao
+import com.sample.mvvmtodo.di.ApplicationScope
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

@@ -1,4 +1,4 @@
- package com.codinginflow.mvvmtodo.data
+ package com.sample.mvvmtodo.data
 
 import androidx.room.*
 import kotlinx.coroutines.flow.Flow

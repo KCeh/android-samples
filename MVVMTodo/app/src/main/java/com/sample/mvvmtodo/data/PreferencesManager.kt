@@ -1,8 +1,7 @@
-package com.codinginflow.mvvmtodo.data
+package com.sample.mvvmtodo.data
 
 import android.content.Context
 import android.util.Log
-import androidx.datastore.createDataStore
 import androidx.datastore.preferences.createDataStore
 import androidx.datastore.preferences.edit
 import androidx.datastore.preferences.emptyPreferences

@@ -1,14 +1,14 @@
-package com.codinginflow.mvvmtodo.ui.addedittask
+package com.sample.mvvmtodo.ui.addedittask
 
 import androidx.hilt.Assisted
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.codinginflow.mvvmtodo.data.Task
-import com.codinginflow.mvvmtodo.data.TaskDao
-import com.codinginflow.mvvmtodo.ui.ADD_TASK_RESULT_OK
-import com.codinginflow.mvvmtodo.ui.EDIT_TASK_RESULT_OK
+import com.sample.mvvmtodo.data.Task
+import com.sample.mvvmtodo.data.TaskDao
+import com.sample.mvvmtodo.ui.ADD_TASK_RESULT_OK
+import com.sample.mvvmtodo.ui.EDIT_TASK_RESULT_OK
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.flow.receiveAsFlow
 import kotlinx.coroutines.launch

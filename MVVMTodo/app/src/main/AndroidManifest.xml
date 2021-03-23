@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.codinginflow.mvvmtodo">
+    package="com.sample.mvvmtodo">
 
     <application
         android:name=".ToDoApplication"
@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MVVMTodo">
-        <activity android:name="com.codinginflow.mvvmtodo.ui.MainActivity"
+        <activity android:name="com.sample.mvvmtodo.ui.MainActivity"
             android:windowSoftInputMode="adjustResize">
 <!--            resize screen when keyboard is open-->
             <intent-filter>

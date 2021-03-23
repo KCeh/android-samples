@@ -1,4 +1,4 @@
-package com.codinginflow.mvvmtodo.ui.tasks
+package com.sample.mvvmtodo.ui.tasks
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -6,8 +6,8 @@ import androidx.core.view.isVisible
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.codinginflow.mvvmtodo.data.Task
-import com.codinginflow.mvvmtodo.databinding.ItemTaskBinding
+import com.sample.mvvmtodo.data.Task
+import com.sample.mvvmtodo.databinding.ItemTaskBinding
 
 class TasksAdapter(private val listener:OnItemClickListener) : ListAdapter<Task, TasksAdapter.TasksViewHolder>(DiffCallback()){
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TasksViewHolder {

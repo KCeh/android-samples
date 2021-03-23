@@ -1,16 +1,15 @@
-package com.codinginflow.mvvmtodo.ui.tasks
+package com.sample.mvvmtodo.ui.tasks
 
 import androidx.hilt.Assisted
 import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.*
-import com.codinginflow.mvvmtodo.data.PreferencesManager
-import com.codinginflow.mvvmtodo.data.SortOrder
-import com.codinginflow.mvvmtodo.data.Task
-import com.codinginflow.mvvmtodo.data.TaskDao
-import com.codinginflow.mvvmtodo.ui.ADD_TASK_RESULT_OK
-import com.codinginflow.mvvmtodo.ui.EDIT_TASK_RESULT_OK
+import com.sample.mvvmtodo.data.PreferencesManager
+import com.sample.mvvmtodo.data.SortOrder
+import com.sample.mvvmtodo.data.Task
+import com.sample.mvvmtodo.data.TaskDao
+import com.sample.mvvmtodo.ui.ADD_TASK_RESULT_OK
+import com.sample.mvvmtodo.ui.EDIT_TASK_RESULT_OK
 import kotlinx.coroutines.channels.Channel
-import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.combine
 import kotlinx.coroutines.flow.flatMapLatest
 import kotlinx.coroutines.flow.receiveAsFlow

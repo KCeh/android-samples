@@ -1,4 +1,4 @@
-package com.codinginflow.mvvmtodo.util
+package com.sample.mvvmtodo.util
 
 val <T> T.exhaustive:T
     get() = this

@@ -1,6 +1,5 @@
-package com.codinginflow.mvvmtodo.ui.deleteAllCompleted
+package com.sample.mvvmtodo.ui.deleteAllCompleted
 
-import android.app.Dialog
 import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.DialogFragment
