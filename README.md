@@ -26,4 +26,4 @@ App that provides image search functionality with help from Unsplash. If you dow
 * ViewModel
 
 <br>
-<img src="/readme/image-search.gif" alt="Splash demo2 gif" width="320" height="640"/>
+<img src="/readme/image-search.gif" alt="Image search demo" width="320" height="640"/>
