@@ -11,7 +11,7 @@ Simple Todo app which uses modern Android architecture components. Featuring:
 * SearchView
 * *exhaustive Kotlin compiler trick*, [see this link](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)  
   
-[Watch demo](../main/readme/MVVM-todo.mp4)
+[Watch demo](https://user-images.githubusercontent.com/20267231/112981615-bf273000-915b-11eb-9861-9fcf7aafed9e.mp4)
 
 
 
