@@ -24,3 +24,6 @@ App that provides image search functionality with help from Unsplash. If you dow
 * Hilt (Dagger 2) 
 * Paging 3
 * ViewModel
+
+<br>
+<img src="/readme/image-search.gif" alt="Splash demo2 gif" width="320" height="640"/>
