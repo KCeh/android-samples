@@ -9,8 +9,9 @@ Simple Todo app which uses modern Android architecture components. Featuring:
 * Navigation with NavArgs (Single Activity app)
 * View binding
 * SearchView
-* *exhaustive Kotlin compiler trick*, [see this link](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
-[Watch demo](../blob/main/readme/MVVM-todo.mp4)
+* *exhaustive Kotlin compiler trick*, [see this link](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)  
+  
+[Watch demo](../main/readme/MVVM-todo.mp4)
 
 
 
