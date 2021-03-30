@@ -11,10 +11,9 @@ Simple Todo app which uses modern Android architecture components. Featuring:
 * SearchView
 * *exhaustive Kotlin compiler trick*, [see this link](https://proandroiddev.com/kotlin-when-statement-when-expression-oh-my-or-how-we-created-our-custom-detekt-rule-6f27e80bedaf)
 <br>
-<video style="width:100%" controls>
-  <source src="video.mp4" type="/readme/MVVM-todo.mp4">
-Your browser does not support the video tag.
-</video>
+[Watch demo](https://user-images.githubusercontent.com/20267231/112981615-bf273000-915b-11eb-9861-9fcf7aafed9e.mp4)
+
+
 
 ## Image Search
 App that provides image search functionality with help from Unsplash. If you download source code make sure to obtain and insert your own **Unsplash API access key** in **gradle.properties** file. Featuring:
