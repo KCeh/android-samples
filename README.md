@@ -27,3 +27,9 @@ App that provides image search functionality with help from Unsplash. If you dow
 
 <br>
 <img src="/readme/image-search.gif" alt="Image search demo" width="320" height="640"/>
+
+## Circular Dial RecyclerView
+Custom Layout Manager implementation for RecyclerView. Circular dial/arc layout.
+
+<br>
+<img src="/readme/CircularDialRecyclerView.gif" alt="Circular Dial RecyclerView demo" width="320" height="640"/>
