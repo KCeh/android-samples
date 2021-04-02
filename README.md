@@ -1,5 +1,5 @@
 # Android Sample Apps
-Sample apps and demos that use modern Android architecture components or that I found interesting.
+Sample apps and demos that use modern Android architecture components or that I found interesting. Please note that due to format restrictions, GIFs might not be perfect (and they don't fully reflect performances of app), also GitHub doesn't allow embedding videos to readme. 
 
 ## MVVM Todo
 Simple Todo app which uses modern Android architecture components. Featuring:
