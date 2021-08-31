@@ -5,6 +5,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.request.RequestOptions
 import com.samples.spotifyclone.R
+import com.samples.spotifyclone.exoplayer.MusicServiceConnection
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.DefineComponent
@@ -25,5 +26,11 @@ object AppModule {
             .error((R.drawable.ic_image))
             .diskCacheStrategy(DiskCacheStrategy.DATA)
         )
+
+    @Singleton
+    @Provides
+    fun provideMusicServiceConnection(
+        @ApplicationContext context: Context
+    ) = MusicServiceConnection(context)
 
 }
