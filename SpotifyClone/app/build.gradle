@@ -90,6 +90,8 @@ dependencies {
     // Firebase Storage KTX
     implementation 'com.google.firebase:firebase-storage-ktx:19.2.0'
 
+    implementation "io.grpc:grpc-okhttp:1.32.2"
+
     // Firebase Coroutines
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.1.1'
 
