@@ -45,6 +45,6 @@ Simple music player that acts as Spotify Clone. Music is streamed from Firebase 
 * Kotlin synthetic (deprecated)
 * Exoplayer (and related APIs)
   
-[Watch demo](https://github.com/KCeh/android-samples/blob/main/readme/spotify-clone.mp4)
+[Watch demo](https://user-images.githubusercontent.com/20267231/131641310-2ba8bb24-41f9-41ee-b06e-ed7df3216423.mp4)
 
 
