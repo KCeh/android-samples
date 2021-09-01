@@ -34,3 +34,17 @@ Custom Layout Manager implementation for RecyclerView. Circular dial/arc layout.
 
 <br>
 <img src="/readme/CircularDialRecyclerView.gif" alt="Circular Dial RecyclerView demo" width="320" height="640"/>
+
+## Spotify Clone
+Simple music player that acts as Spotify Clone. Music is streamed from Firebase so you need to obtain and insert your own **google-services.json** 
+* Firebase (Firestore & Storage) 
+* Hilt (Dagger 2) 
+* ViewModel
+* LiveData
+* Simple Navigation
+* Kotlin synthetic (deprecated)
+* Exoplayer (and related APIs)
+  
+[Watch demo](https://user-images.githubusercontent.com/20267231/112981615-bf273000-915b-11eb-9861-9fcf7aafed9e.mp4)
+
+
